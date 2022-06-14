@@ -1,5 +1,5 @@
 ---
-- hosts: web02
+- hosts: "116.62.157.43"
   remote_user: root
   gather_facts: True    
   roles:                
