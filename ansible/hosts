@@ -40,7 +40,7 @@
 # Here's another example of host ranges, this time there are no
 # leading 0s:
 [web02]
-120.76.75.72
+116.62.157.43
 
 
 ## db-[99:101]-node.example.com
